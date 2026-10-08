@@ -1,16 +1,14 @@
-## Hi there 👋
+## Привет! Меня зовут Вероника
+QA‑автоматизатор. Делаю автотесты для API и UI так, чтобы их было удобно поддерживать и легко читать.
+## Мои ключевые проекты
+### 🖥 UI‑автотесты: интернет‑магазин RusBuket
 
-<!--
-**VeronikaStolyarchuk/VeronikaStolyarchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Автоматизация ключевых пользовательских сценариев в e‑commerce.
+**Что покрыто:**
+- 🛒 **Сквозной сценарий покупки:** поиск товара → карточка → корзина → оформление заказа.
+- 📝 **Проверка форм:** валидация полей, сообщения об ошибках, состояния кнопок.
+- 🧱 **Page Object:** логика страниц вынесена в отдельные классы — при изменении верстки правлю в одном месте.
+- 📊 **Allure‑отчёты** с шагами по каждой странице и действию.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек:** Selenide, JUnit 5, Gradle, Allure.  
+**Ссылка:** [https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_UI]
