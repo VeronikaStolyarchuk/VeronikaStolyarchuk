@@ -19,3 +19,10 @@ QA‑автоматизатор. Делаю автотесты для API и UI 
 ## Мои ключевые проекты
 ### 🖥 [UI‑автотесты](https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_UI.git): [интернет‑магазин RusBuket](https://rus-buket.ru)
 ### 📡 [Автотесты API](https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_API.git): [practice.expandtesting.com](https://practice.expandtesting.com/notes/api/api-docs/)
+
+## 📫 Как со мной связаться
+
+Рада обсудить автотесты, архитектуру, паттерны или новые возможности
+
+- 💬 **Telegram:** [@VeronikaStolyarchuk]
+- ✉️ **Email:** veronikaha@mail.ru
