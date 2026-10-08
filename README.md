@@ -1,29 +1,21 @@
 ## Привет! Меня зовут Вероника
 QA‑автоматизатор. Делаю автотесты для API и UI так, чтобы их было удобно поддерживать и легко читать.
+## Технологический стек
+
+<p align="center">
+<a href="https://www.java.com/"><img src="media/logo/java.svg" width="50" height="50"  alt="Java"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="media/logo/intellij-idea.svg" width="50" height="50"  alt="IDEA"/></a>
+<a href="https://gradle.org/"><img src="media/logo/gradle.svg" width="50" height="50"  alt="Gradle"/></a>
+<a href="https://junit.org/junit5/"><img src="media/logo/junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
+<a href="https://github.com/"><img src="media/logo/github.svg" width="50" height="50"  alt="Github"/></a>
+<a href="https://selenide.org/"><img src="media/logo/selenide.svg" width="50" height="50"  alt="Selenide"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="media/logo/selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
+<a href="https://github.com/allure-framework/allure2"><img src="media/logo/allure.svg" width="50" height="50"  alt="Allure"/></a>
+<a href="https://qameta.io/"><img src="media/logo/allureTO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
+<a href="https://www.jenkins.io/"><img src="media/logo/jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
+<a href="https://www.atlassian.com/ru/software/jira"><img src="media/logo/jira.svg" width="50" height="50"  alt="Atlassian Jira"/></a>
+</p>
+
 ## Мои ключевые проекты
-### 🖥 UI‑автотесты: [интернет‑магазин RusBuket](https://rus-buket.ru)
-
-Автоматизация ключевых пользовательских сценариев в e‑commerce.
-
-**Что покрыто:**
-- 🛒 **Сквозной сценарий покупки:** поиск товара → карточка → корзина → оформление заказа.
-- 📝 **Проверка форм:** валидация полей, сообщения об ошибках, состояния кнопок.
-- 🧱 **Page Object:** логика страниц вынесена в отдельные классы — при изменении верстки правлю в одном месте.
-- 📊 **Allure‑отчёты** с шагами по каждой странице и действию.
-
-**Стек:** Selenide, JUnit 5, Gradle, Allure.  
-**Ссылка:** [https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_UI]
-
-### 📡 Автотесты API: practice.expandtesting.com
-
-Проект‑портфолио: покрытие REST API для пользователей и заметок.
-
-**Что реализовано:**
-- ✅ **13 проверок** — позитивные и негативные сценарии (успешная регистрация, дубликаты, пустые поля, неверный пароль, отсутствие токена, несуществующие ID и т. д.).
-- 🔁 **Сквозной сценарий:** логин → создание заметки → удаление заметки — с проверкой на каждом шаге.
-- 🧠 **Переиспользуемые спецификации RestAssured** для статус‑кодов и структуры JSON — валидация в одном месте, а не в каждом тесте.
-- 🎲 **Динамические данные через JavaFaker** — уникальные имена, email, пароли. Никакого хардкода.
-- 📈 **Allure‑отчёты с детализацией шагов** (`Allure.step`) — видно каждый запрос, каждый ассерт, каждую проверку.
-
-**Стек:** Java 21, JUnit 5, RestAssured, AssertJ, Gradle, Allure, JavaFaker.  
-**Ссылка:** [https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_API.git]
+### 🖥 [UI‑автотесты](https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_UI.git): [интернет‑магазин RusBuket](https://rus-buket.ru)
+### 📡 [Автотесты API](https://github.com/VeronikaStolyarchuk/qa_guru_Diplom_API.git): [practice.expandtesting.com](https://practice.expandtesting.com/notes/api/api-docs/)
