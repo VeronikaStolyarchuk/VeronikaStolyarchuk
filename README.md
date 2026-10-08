@@ -30,5 +30,5 @@ QA‑автоматизатор. Делаю автотесты для API и UI 
 
 Рада обсудить автотесты, архитектуру, паттерны или новые возможности
 
-- 💬 **Telegram:** [@VeronikaStolyarchuk]
+- 💬 **Telegram:** [@VeronikaStolyarchuk](https://t.me/VeronikaStolyarchuk)
 - ✉️ **Email:** veronikaha@mail.ru
